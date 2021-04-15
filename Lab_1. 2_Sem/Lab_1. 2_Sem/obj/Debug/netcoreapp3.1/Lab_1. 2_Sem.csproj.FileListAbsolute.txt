@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\bin\Debug\netcoreapp3.1\Lab_1. 2_Sem.exe
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\bin\Debug\netcoreapp3.1\Lab_1. 2_Sem.deps.json
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\bin\Debug\netcoreapp3.1\Lab_1. 2_Sem.runtimeconfig.json
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\bin\Debug\netcoreapp3.1\Lab_1. 2_Sem.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\bin\Debug\netcoreapp3.1\Lab_1. 2_Sem.dll
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\bin\Debug\netcoreapp3.1\Lab_1. 2_Sem.pdb
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\obj\Debug\netcoreapp3.1\Lab_1. 2_Sem.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\obj\Debug\netcoreapp3.1\Lab_1._2_Sem.Form1.resources
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\obj\Debug\netcoreapp3.1\Lab_1. 2_Sem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\obj\Debug\netcoreapp3.1\Lab_1. 2_Sem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\obj\Debug\netcoreapp3.1\Lab_1. 2_Sem.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\obj\Debug\netcoreapp3.1\Lab_1. 2_Sem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\obj\Debug\netcoreapp3.1\Lab_1. 2_Sem.dll
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\obj\Debug\netcoreapp3.1\Lab_1. 2_Sem.pdb
+C:\Users\User\source\repos\Lab_1. 2_Sem\Lab_1. 2_Sem\obj\Debug\netcoreapp3.1\Lab_1. 2_Sem.genruntimeconfig.cache
