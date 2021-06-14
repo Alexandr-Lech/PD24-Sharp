@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\bin\Debug\net5.0\Lab7_Sem2.exe
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\bin\Debug\net5.0\Lab7_Sem2.deps.json
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\bin\Debug\net5.0\Lab7_Sem2.runtimeconfig.json
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\bin\Debug\net5.0\Lab7_Sem2.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\bin\Debug\net5.0\Lab7_Sem2.dll
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\bin\Debug\net5.0\ref\Lab7_Sem2.dll
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\bin\Debug\net5.0\Lab7_Sem2.pdb
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\obj\Debug\net5.0\Lab7_Sem2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\obj\Debug\net5.0\Lab7_Sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\obj\Debug\net5.0\Lab7_Sem2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\obj\Debug\net5.0\Lab7_Sem2.AssemblyInfo.cs
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\obj\Debug\net5.0\Lab7_Sem2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\obj\Debug\net5.0\Lab7_Sem2.dll
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\obj\Debug\net5.0\ref\Lab7_Sem2.dll
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\obj\Debug\net5.0\Lab7_Sem2.pdb
+C:\Users\User\Desktop\Lab7_Sem2\Lab7_Sem2\obj\Debug\net5.0\Lab7_Sem2.genruntimeconfig.cache
