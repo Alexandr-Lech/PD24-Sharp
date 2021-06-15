@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\bin\Release\WpfApp9.exe.config
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\bin\Release\WpfApp9.exe
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\bin\Release\WpfApp9.pdb
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\App.g.cs
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\WpfApp9_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\WpfApp9.g.resources
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\WpfApp9.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\WpfApp9.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\WpfApp9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\WpfApp9.exe
+C:\Users\Admin\source\repos\WpfApp9\WpfApp9\obj\Release\WpfApp9.pdb
